@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Map &amp; Translate</string>
+    <string name="map_api_key">AIzaSyAZ9KRm3IE0PsmLy785zpptsxtSb4qEQu4</string>
+
+    <string name="translate">Translate</string>
+    <string name="vi">vi</string>
+    <string name="hello_world">hello world</string>
+    <string name="listening">Listening…</string>
+    <string name="map_navigation">Map Navigation</string>
+    <string name="start">Start</string>
+    <string name="navigation_description">Điểm bắt đầu: %1$s. Điểm đến: %2$s. Phương tiện: Xe. Khoảng cách: %3$s. Thời gian: %4$s.</string>
+</resources>
