@@ -31,6 +31,8 @@
         <activity
             android:name=".translate.TranslateActivity"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".millionaire.MillionaireActivity" />
     </application>
 
 </manifest>

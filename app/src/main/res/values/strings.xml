@@ -7,6 +7,9 @@
     <string name="hello_world">hello world</string>
     <string name="listening">Listening…</string>
     <string name="map_navigation">Map Navigation</string>
+    <string name="millionaire">Millionaire</string>
+    <string name="answer">Answer</string>
     <string name="start">Start</string>
+    <string name="press_start">Press Start …</string>
     <string name="navigation_description">Điểm bắt đầu: %1$s. Điểm đến: %2$s. Phương tiện: Xe. Khoảng cách: %3$s. Thời gian: %4$s.</string>
 </resources>

@@ -10,6 +10,7 @@ import android.text.Html
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.app.translation.databinding.ActivityMainBinding
+import com.app.translation.millionaire.MillionaireActivity
 import com.app.translation.navigation.NavigationActivity
 import com.app.translation.translate.TranslateActivity
 import java.util.*
@@ -24,6 +25,9 @@ class MainActivity : AppCompatActivity() {
             }
             btnTranslate.setOnClickListener {
                 startActivity(Intent(this@MainActivity, TranslateActivity::class.java))
+            }
+            btnMillionaire.setOnClickListener {
+                startActivity(Intent(this@MainActivity, MillionaireActivity::class.java))
             }
             setContentView(root)
         }

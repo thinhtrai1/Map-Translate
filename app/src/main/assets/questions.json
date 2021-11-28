@@ -1,0 +1,3142 @@
+[
+  {
+    "questions": [
+      {
+        "question": "In what children's game are participants chased by someone designated \"It\"?",
+        "answers": [
+          "Tag",
+          "Simon Says",
+          "Charades",
+          "Hopscotch"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "On a radio, stations are changed by using what control?",
+        "answers": [
+          "Tuning",
+          "Volume",
+          "Bass",
+          "Treble"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which material is most dense?",
+        "answers": [
+          "Silver",
+          "Styrofoam",
+          "Butter",
+          "Gold"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which state in the United States is largest by area?",
+        "answers": [
+          "Alaska",
+          "California",
+          "Texas",
+          "Hawaii"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is Aurora Borealis commonly known as?",
+        "answers": [
+          "Fairy Dust",
+          "Northern Lights",
+          "Book of ages",
+          "a Game of Thrones main character"
+        ],
+        "correct": 1
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "developed the telescope",
+          "discovered four satellites of Jupiter",
+          "discovered that the movement of pendulum produces a regular time measurement",
+          "All of the above"
+        ],
+        "question": "Galileo was an Italian astronomer who"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "the infrared light kills bacteria in the body",
+          "resistance power increases",
+          "the pigment cells in the skin get stimulated and produce a healthy tan",
+          "the ultraviolet rays convert skin oil into Vitamin D"
+        ],
+        "question": "Exposure to sunlight helps a person improve his health because"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "a club or a local sport association for remarkable achievements",
+          "amateur athlete, not necessarily an Olympian",
+          "National Olympic Committee for outstanding work",
+          "None of the above"
+        ],
+        "question": "Sir Thomas Fearnley Cup is awarded to"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "1968",
+          "1929",
+          "1901",
+          "1965"
+        ],
+        "question": "Oscar Awards were instituted in"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "1998",
+          "1989",
+          "1979",
+          "1800"
+        ],
+        "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "15th April",
+          "12th December",
+          "1st May",
+          "1st August"
+        ],
+        "question": "When is the International Workers' Day?"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "1962",
+          "1963",
+          "1964",
+          "1965"
+        ],
+        "question": "When did China test their first atomic device?"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "1904",
+          "1905",
+          "1908",
+          "1909"
+        ],
+        "question": "When did Commander Robert Peary discover the North Pole?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "819/sq. km",
+          "602/sq. km",
+          "415/sq. km",
+          "500/sq. km"
+        ],
+        "question": "What is the population density of Kerala?"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "4 km",
+          "25 km",
+          "500 m to 9 km",
+          "150 km"
+        ],
+        "question": "What is the range of missile 'Akash'?"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "In the U.S., if it's not Daylight Saving Time, it's what?",
+        "answers": [
+          "Borrowed time",
+          "Overtime",
+          "Standard time",
+          "Party time"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which part of the body are you most likely to \"stub\"?",
+        "answers": [
+          "Toe",
+          "Knee",
+          "Elbow",
+          "Brain"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which country is largest by area?",
+        "answers": [
+          "UK",
+          "USA",
+          "Russia",
+          "China"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What does the \"F\" stand for in FBI?",
+        "answers": [
+          "Foreign",
+          "Federal",
+          "Flappy",
+          "Face"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The US declared war on which country after the bombing of Pearl Harbor?",
+        "answers": [
+          "Japan",
+          "Russia",
+          "Germany",
+          "China"
+        ],
+        "correct": 0
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Letter of Credit (L/C)",
+          "laissezfaire",
+          "inflation",
+          "None of the above"
+        ],
+        "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "Visible light",
+          "Infrared radiation",
+          "X-rays and gamma rays",
+          "Ultraviolet radiation"
+        ],
+        "question": "The ozone layer restricts"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
+          "the discoverer of Puerto Rico and Jamaica",
+          "the first Buddhist pilgrim of India to visit China",
+          "None of the above"
+        ],
+        "question": "Fa-Hien was"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Harvard",
+          "University of Washington",
+          "Yale",
+          "Oxford"
+        ],
+        "question": "What was the first university in the United States"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "The amount of energy it takes to move an electron through a potential difference of 1 volt",
+          "The number of volts it takes to move an electon a meter",
+          "The number of electrons it takes to kill a human being",
+          "The flux of current through a surface parallel to a capacitor"
+        ],
+        "question": "An electron volt is"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "14th November",
+          "11th December",
+          "15th October",
+          "1st July"
+        ],
+        "question": "When is the World's Diabetes Day?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Kelvin",
+          "Celsius",
+          "Centigrade",
+          "Fahrenheit"
+        ],
+        "question": "What is the S.I. unit of temperature?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "July 21, 1969",
+          "July 21, 1970",
+          "July 21, 1963",
+          "July 21, 1972"
+        ],
+        "question": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "the density of milk increases",
+          "the density of milk decreases",
+          "the density of milk remains unchanged",
+          "it becomes more viscous"
+        ],
+        "question": "When cream is separated from milk"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "1999",
+          "1989",
+          "1979",
+          "1969"
+        ],
+        "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "An albino gorilla usually has what color fur?",
+        "answers": [
+          "Brown",
+          "Black",
+          "White",
+          "Golden"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+        "answers": [
+          "Fingertips",
+          "Ear",
+          "Nose",
+          "Mouth"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is commonly known as the \"Emerald City\" in the United States?",
+        "answers": [
+          "Palos Verdes, CA",
+          "Seattle, WA",
+          "New York, NY",
+          "Dallas, TX"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the national emblem of Canada?",
+        "answers": [
+          "Maple Leaf",
+          "Brown Bear",
+          "Maple Syrup",
+          "Waffle"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the name of the largest freshwater lake in the world?",
+        "answers": [
+          "Lake Union",
+          "Lake Superior",
+          "Lake Largest",
+          "Lake Goodwin"
+        ],
+        "correct": 0
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "Birds",
+          "Cell formation",
+          "Relation between organisms and their environment",
+          "Tissues"
+        ],
+        "question": "Ecology deals with"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Earth's gravitational pull",
+          "Moon's gravitational pull",
+          "Centripetal force due to the earth's rotation",
+          "Pressure of the atmosphere"
+        ],
+        "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "was a great Italian painter, sculptor and architect",
+          "got universal fame form his masterpiece \"Mona lisa\"",
+          "drew models of organs such as the heart, lungs and womb",
+          "All of the above"
+        ],
+        "question": "Leonardo da Vinci"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "2000",
+          "2001",
+          "2002",
+          "2003"
+        ],
+        "question": "Hamid Karzai was chosen president of Afghanistan in"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "New York, USA",
+          "Haque (Netherlands)",
+          "Geneva",
+          "Paris"
+        ],
+        "question": "The headquarters of UN are situated at"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "friction between the earth and the bus",
+          "friction between the passengers and the earth",
+          "inertia of the passengers",
+          "inertia of the bus"
+        ],
+        "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "1908 at London",
+          "1980 at Moscow",
+          "1936 at Berlin",
+          "1924 at Paris"
+        ],
+        "question": "When and where was hockey introduced for women in Olympics?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "increase the alkalinity of the soil",
+          "increase the acidity of the soil",
+          "restore nitrates to the soil",
+          "make the soil more porous"
+        ],
+        "question": "Lime is sometimes applied to soil in order to"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "discovered Greenland",
+          "travelled through China, India and other parts of Asia",
+          "travelled round the cape of Good Hope",
+          "discovered Canada"
+        ],
+        "question": "Marco Polo"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "Guruji",
+          "Man of Peace",
+          "Punjab Kesari",
+          "Mahamana"
+        ],
+        "question": "Lal Bahadur Shastri is also known as"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which of the following consumer goods is the Gerber Products Co. best known for?",
+        "answers": [
+          "Potato chips",
+          "Fine wines",
+          "Chewing gum",
+          "Baby Food"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In which of these household appliances would you find a lint screen?",
+        "answers": [
+          "Dishwasher",
+          "Microwave oven",
+          "Clothes dryer",
+          "Trash compactor"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What are the three primary colors?",
+        "answers": [
+          "Red, green, blue",
+          "Magenta, pink, cyan",
+          "Yellow, salmon, brown",
+          "White, grey, black"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In aviation, what does UFO stand for?",
+        "answers": [
+          "Unified Flying Object",
+          "Unitary Flinging Obsession",
+          "United Flag Opposition",
+          "Unidentified Flying Object"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In aviation, what does UFO stand for?",
+        "answers": [
+          "Unified Flying Object",
+          "Unitary Flinging Obsession",
+          "United Flag Opposition",
+          "Unidentified Flying Object"
+        ],
+        "correct": 3
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "low melting point",
+          "high resistance",
+          "high melting point",
+          "low specific heat"
+        ],
+        "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "slowing down of economic activity over a limited period",
+          "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
+          "period that results from accumulation of unsold goods, owing to fall in demand",
+          "All of the above"
+        ],
+        "question": "Recession is"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "Nagaland",
+          "Arunachal Pradesh",
+          "Assam",
+          "All of the above"
+        ],
+        "question": "Guwahati High Court is the judicature of"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Orissa",
+          "Tamil nadu",
+          "Andhra Pradesh",
+          "Kerala"
+        ],
+        "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "the amount of moisture it can hold decreases",
+          "its absolute humidity decreases",
+          "its relative humidity remains constant",
+          "its absolute humidity increases"
+        ],
+        "question": "When a given amount of air is cooled"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "1789 AD",
+          "1798 AD",
+          "1792 AD",
+          "1729 AD"
+        ],
+        "question": "When did France became Republic?"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "Group A only",
+          "Group B only",
+          "Group A and O",
+          "Group AB only"
+        ],
+        "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "coins",
+          "numbers",
+          "stamps",
+          "space"
+        ],
+        "question": "Numismatics is the study of"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "a classed unique society",
+          "a united society",
+          "a classed society",
+          "None of the above"
+        ],
+        "question": "Karl Marx's ideology advocated"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "Maharashtra",
+          "Rajasthan",
+          "Madhya Pradesh",
+          "Himachal Pradesh"
+        ],
+        "question": "Mahabaleshwar is located in"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What kind of animal traditionally lives in a sty?",
+        "answers": [
+          "Cow",
+          "Pig",
+          "Fox",
+          "Teenager"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+        "answers": [
+          "Recycle",
+          "Rewrap",
+          "Repossess",
+          "Retire"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the second most common gas in the air?",
+        "answers": [
+          "Nitrogen",
+          "Oxygen",
+          "Water",
+          "Helium"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which month has only 28 days (unless it's a leap year)?",
+        "answers": [
+          "March",
+          "September",
+          "June",
+          "Feburary"
+        ],
+        "correct": 3
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "give",
+          "prove",
+          "both",
+          "None of the above"
+        ],
+        "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "George Washington",
+          "Bill Clinton",
+          "George Bush",
+          "None of the above"
+        ],
+        "question": "The American General who led the revolt against the British and declared American independence was"
+      },
+      {
+        "correct": 0,
+        "answers": [
+          "1986 at Athens",
+          "1988 at Seoul",
+          "1924 at St. Louis",
+          "1908 at London"
+        ],
+        "question": "When and where was weightlifting introduced in Olympics?"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "Junagarh, Gujarat",
+          "Diphu, Assam",
+          "Kohima, Nagaland",
+          "Gangtok, Sikkim"
+        ],
+        "question": "Garampani sanctuary is located at"
+      },
+      {
+        "correct": 3,
+        "answers": [
+          "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
+          "provided facilities to a prisoner to obtain either speedy trial or release in bail",
+          "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
+          "All of the above"
+        ],
+        "question": "The Habeas Corpus Act of 1679"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "1960",
+          "1961",
+          "1962",
+          "1963"
+        ],
+        "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
+      },
+      {
+        "question": "What are the dimensions of A4 paper?",
+        "answers": [
+          "8.3\" x 11.7\"",
+          "8.5\" x 11\"",
+          "30cm x 50cm",
+          "8.5\" x 14\""
+        ],
+        "correct": 0
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "energy",
+          "speed",
+          "distance",
+          "intensity"
+        ],
+        "question": "Light Year is related to"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "a type of asset that is in cash in the current account of the commercial bank",
+          "a type of asset that is in the form of a deposit in the current account of the commercial bank",
+          "either of these",
+          "None of the above"
+        ],
+        "question": "A liquid asset is"
+      },
+      {
+        "correct": 1,
+        "answers": [
+          "largest airport",
+          "highest airport",
+          "lowest airport",
+          "busiest airport"
+        ],
+        "question": "Lhasa airport at Tibet is the World's"
+      },
+      {
+        "correct": 2,
+        "answers": [
+          "Ethiopia",
+          "Nigeria",
+          "Zambia",
+          "Chad"
+        ],
+        "question": "Which of these African countries is situated south of the equator?"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "In what children's game are participants chased by someone designated \"It\"?",
+        "answers": [
+          "Tag",
+          "Simon Says",
+          "Charades",
+          "Hopscotch"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "On a radio, stations are changed by using what control?",
+        "answers": [
+          "Tuning",
+          "Volume",
+          "Bass",
+          "Treble"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "A college graduate who receives a B.S. degree holds what official title?",
+        "answers": [
+          "Bachelor of science",
+          "Business scholar",
+          "Baccalaureate staff",
+          "Brainy student"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which of the following telephone area codes is not a toll-free call in the United States?",
+        "answers": [
+          "800",
+          "828",
+          "877",
+          "888"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What part of the human body does glaucoma directly affect?",
+        "answers": [
+          "Ear",
+          "Nose",
+          "Throat",
+          "Eye"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the name of Tom Cruise's character in the \"Mission: Impossible\" movies?",
+        "answers": [
+          "Frank Mackey",
+          "Mitch McDeere",
+          "Joel Goodson",
+          "Ethan Hunt"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of these materials is used to make vests bulletproof?",
+        "answers": [
+          "Kevlar",
+          "Lycra",
+          "Gore-tex",
+          "Polystyrene"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What animal's name means \"river horse\" in Greek?",
+        "answers": [
+          "Platypus",
+          "Hippopotamus",
+          "Rhinoceros",
+          "Manatee"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "To take advantage of the earth's rotation, NASA launches most of its rockets in what direction?",
+        "answers": [
+          "North",
+          "East",
+          "South",
+          "West"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "College football's Independence Bowl is played in what city?",
+        "answers": [
+          "Philadelphia",
+          "Memphis",
+          "Shreveport",
+          "Tucson"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of these best describes music that is played \"pianissimo\"?",
+        "answers": [
+          "Very soft",
+          "Very fast",
+          "Moderately loud",
+          "Loud"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In Greek mythology, what is the relationship between Oedipus and Antigone?",
+        "answers": [
+          "Husband and wife",
+          "Mentor and student",
+          "Father and daughter",
+          "Mother and son"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The rococo style of art originated in what country?",
+        "answers": [
+          "France",
+          "Italy",
+          "Austria",
+          "Spain"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In Norse mythology, Mjolnir was the name of what?",
+        "answers": [
+          "Thor's hammer",
+          "Odin's horse",
+          "Sigmund's sword",
+          "Loki's magic necklace"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "On July 12, 2000, Russia launched a rocket into space bearing the corporate logo of what company?",
+        "answers": [
+          "Intel",
+          "Reebok",
+          "Budweiser",
+          "Pizza Hut"
+        ],
+        "correct": 3
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "In the U.S., if it's not Daylight Saving Time, it's what?",
+        "answers": [
+          "Borrowed time",
+          "Overtime",
+          "Standard time",
+          "Party time"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which part of the body are you most likely to \"stub\"?",
+        "answers": [
+          "Toe",
+          "Knee",
+          "Elbow",
+          "Brain"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Put your seat backs and tray tables into their full upright and locked position is usually heard where?",
+        "answers": [
+          "Grade school",
+          "Planetarium",
+          "Airplane",
+          "Thanksgiving dinner"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "In U.S. personal ads, what do the letters ISO traditionally represent? ",
+        "answers": [
+          "I'm someone ordinary",
+          "In search of",
+          "I seek one",
+          "It seems odd"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "A person who earns a Ph.D. is literally a certified doctor of what?",
+        "answers": [
+          "Photography",
+          "Pharmacology",
+          "Philosophy",
+          "Psychology"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "British actor/comedian Rowan Atkinson plays what famous character?",
+        "answers": [
+          "Mr. Nut",
+          "Mr. Bean",
+          "Mr. Pea",
+          "Mr. Sprout"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the only Great Lake that lies wholly within the U.S.?",
+        "answers": [
+          "Lake Erie",
+          "Lake Huron",
+          "Lake Michigan",
+          "Lake Superior"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Roy Allen and Frank Wright founded a company that began producing what beverage in the 1920s?",
+        "answers": [
+          "Cocoa",
+          "Root beer",
+          "Coffee",
+          "Whiskey"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which two countries currently account for more than a third of Earth's population?",
+        "answers": [
+          "China and Russia",
+          "India and China",
+          "India and Pakistan",
+          "China and Brazil"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Go-Gurt, yogurt in a tube, is manufactured by what brand?",
+        "answers": [
+          "Dannon",
+          "Breyer's",
+          "Yoplait",
+          "TCBY"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Acadia National Park is located in what U.S. state?",
+        "answers": [
+          "Maine",
+          "Michigan",
+          "Arkansas",
+          "Louisiana"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "The National Hockey League's trophy for league's leading goal scorer is named for what player?",
+        "answers": [
+          "Wayne Gretzky",
+          "Maurice Richard",
+          "Gordie Howe",
+          "Mario Lemieux"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The name of the German news magazine \"Der Spiegel\" means what in English?",
+        "answers": [
+          "The Observer",
+          "The Mirror",
+          "The Sun",
+          "The Times"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Reacting with virtually every other element, what is the most reactive chemical element?",
+        "answers": [
+          "Fluorine",
+          "Oxygen",
+          "Phosphorus",
+          "Sodium"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What taxonomic family do human beings belong to?",
+        "answers": [
+          "Chordata",
+          "Mammalia",
+          "Primate",
+          "Hominidae"
+        ],
+        "correct": 3
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "An albino gorilla usually has what color fur?",
+        "answers": [
+          "Brown",
+          "Black",
+          "White",
+          "Golden"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+        "answers": [
+          "Fingertips",
+          "Ear",
+          "Nose",
+          "Mouth"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "A serial story in which each installment ends at a point of suspense is called a what??",
+        "answers": [
+          "Ledge-hanger",
+          "Rock-hanger",
+          "Cliff-hanger",
+          "Clothes hanger"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What part of speech is the word \"and\"?",
+        "answers": [
+          "Verb",
+          "Noun",
+          "Preposition",
+          "Conjunction"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In basic education, how many of the \"Three R's\" actually begin with the letter R?",
+        "answers": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "U.S. battleships are traditionally named for what?",
+        "answers": [
+          "Presidents",
+          "Constellations",
+          "States",
+          "War heroes"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Athletic shoe maker Nike has its headquarters in what state?",
+        "answers": [
+          "New York",
+          "Washington",
+          "California",
+          "Oregon"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "The Strait of Gibraltar connects the Atlantic Ocean and what sea?",
+        "answers": [
+          "Mediterranean",
+          "Red",
+          "North",
+          "Black"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "A scientific barometer measures pressure in which of the following units?",
+        "answers": [
+          "Baroms",
+          "Farads",
+          "Angstroms",
+          "Millibars"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "The active ingredient in antiperspirants is usually a salt of which element?",
+        "answers": [
+          "Sodium",
+          "Cadmium",
+          "Calcium",
+          "Aluminum"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What continent has the most countries?",
+        "answers": [
+          "Europe",
+          "Asia",
+          "Africa",
+          "South America"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The 1999 film \"10 Things I Hate About You\" was inspired by what Shakespeare play?",
+        "answers": [
+          "Measure for Measure",
+          "Othello",
+          "Love's Labour's Lost",
+          "The Taming of the Shrew"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What architect spent over 40 years building the Church of the Sagrada Familia in Barcelona?",
+        "answers": [
+          "Antonio Gaudi",
+          "Mies van der Rohe",
+          "Rafael Moneo",
+          "Le Corbusier"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What was the name of the first spacecraft to carry a human being into space? ",
+        "answers": [
+          "Soyuz 4",
+          "Vostok 1",
+          "Salyut 3",
+          "Sputnik 10"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "One of the best preserved fossil formations in the world, the Burgess Shale is located where?",
+        "answers": [
+          "Canada",
+          "United States",
+          "England",
+          "France"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which of the following consumer goods is the Gerber Products Co. best known for?",
+        "answers": [
+          "Potato chips",
+          "Fine wines",
+          "Chewing gum",
+          "Baby Food"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In which of these household appliances would you find a lint screen?",
+        "answers": [
+          "Dishwasher",
+          "Microwave oven",
+          "Clothes dryer",
+          "Trash compactor"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "By definition, what does a meteorologist predict?",
+        "answers": [
+          "Stock fluctuations",
+          "Earthquakes",
+          "Weather changes",
+          "Meteors"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The magazine launched in 2000 by Oprah Winfrey is titled what?",
+        "answers": [
+          "Q",
+          "W",
+          "X",
+          "O"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "On a traditional round clock, what number is 180 degrees from the number 5?",
+        "answers": [
+          "2",
+          "6",
+          "9",
+          "11"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "The comic strip character Garfield the cat hates what day of the week? ",
+        "answers": [
+          "Sunday",
+          "Monday",
+          "Thursday",
+          "Friday"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "A renal transplant involves the replacement of what human organ?",
+        "answers": [
+          "Kidney",
+          "Liver",
+          "Pancreas",
+          "Heart"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In Greek mythology, who was the Muse of tragedy? ",
+        "answers": [
+          "Melpomene",
+          "Polyhymnia",
+          "Thalia",
+          "Euterpe"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In the 1993 movie \"Jurassic Park,\" DNA from what animal is used to fill gaps in recovered dinosaur DNA?",
+        "answers": [
+          "Frog",
+          "Iguana",
+          "Crocodile",
+          "Turkey"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Semiotics is the study of what?",
+        "answers": [
+          "Apes",
+          "Word origins",
+          "Signs and symbols",
+          "Flags"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What traditionally takes place on the first Monday in October?",
+        "answers": [
+          "New York City Marathon",
+          "Columbus Day",
+          "Supreme Court opening",
+          "Canadian Thanksgiving"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The horn of a rhinoceros is made up primarily of the same material as what?",
+        "answers": [
+          "Bone",
+          "Ivory",
+          "Cartilage",
+          "Keratin"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In 1927, who was named \"Time\" magazine's first Man of the Year?",
+        "answers": [
+          "Charlie Chaplin",
+          "Al Jolson",
+          "Babe Ruth",
+          "Charles Lindbergh"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "By definition, a barrel holds how many gallons of crude oil?",
+        "answers": [
+          "36",
+          "42",
+          "48",
+          "54"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Called by Czar Nicholas II in 1899, the first \"International Peace Congress\" was held where? ",
+        "answers": [
+          "Yalta",
+          "The Hague",
+          "St. Petersburg",
+          "Geneva"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What kind of animal traditionally lives in a sty?",
+        "answers": [
+          "Cow",
+          "Pig",
+          "Fox",
+          "Teenager"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What name is legally used to indicate a woman whose name is unknown?",
+        "answers": [
+          "Joan Doe",
+          "Jane Doe",
+          "Jean Doe",
+          "Lotta Doe"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+        "answers": [
+          "Recycle",
+          "Rewrap",
+          "Repossess",
+          "Retire"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "For 10 years, Cape Canaveral was renamed for which American president?",
+        "answers": [
+          "Dwight D. Eisenhower",
+          "John F. Kennedy",
+          "Richard M. Nixon",
+          "Lyndon B. Johnson"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "People who advocate war are commonly referred to as what?",
+        "answers": [
+          "Doves",
+          "Hawks",
+          "Rams",
+          "Gorillas"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "In nautical terms, a fathom is equivalent to how many feet?",
+        "answers": [
+          "4",
+          "6",
+          "10",
+          "20"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following comedians was never a regular cast member of TV's \"Saturday Night Live\"?",
+        "answers": [
+          "Steve Martin",
+          "Julia Louis-Dreyfus",
+          "Martin Short",
+          "Jim Belushi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What part of a goose or duck is fattened to produce \"foie gras\"?",
+        "answers": [
+          "Kidney",
+          "Liver",
+          "Stomach",
+          "Tongue"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What components of blood are responsible for blood clotting?",
+        "answers": [
+          "White blood cells",
+          "Red blood cells",
+          "Platelets",
+          "Lymphocytes"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "In Ernest Hemingway's novella \"The Old Man and the Sea,\" what kind of creature does the title character hook?",
+        "answers": [
+          "Shark",
+          "Marlin",
+          "Tuna",
+          "Whale"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "CREEP was an organization to aid the re-election of what incumbent U.S. president?",
+        "answers": [
+          "Richard Nixon",
+          "Ronald Reagan",
+          "George Bush",
+          "Bill Clinton"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is a biretta?",
+        "answers": [
+          "Firearm",
+          "Clerical cap",
+          "Tropical bird",
+          "Lumberjack's tool"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The highest mountain in South America is located in what country?",
+        "answers": [
+          "Brazil",
+          "Peru",
+          "Ecuador",
+          "Argentina"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "The shortest distance between two points lying on a curved or flat surface is what type of line?",
+        "answers": [
+          "Stochastic",
+          "Isometric",
+          "Discrete",
+          "Geodesic"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In 1893, what country was the first to grant women the right to vote?",
+        "answers": [
+          "Canada",
+          "Sweden",
+          "New Zealand",
+          "Denmark"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "answers": [
+          "Hyper Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks and Text Markup Language",
+          "Hyperscript Text Markup Language"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Who is making the Web standards?",
+        "answers": [
+          "Microsoft",
+          "Google",
+          "The World Wide Web Consortium",
+          "Mozilla"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the correct HTML element for the largest heading?",
+        "answers": [
+          "<heading>",
+          "<h6>",
+          "<h1>",
+          "<head>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "answers": [
+          "<br>",
+          "<break>",
+          "<lb>",
+          "<linebreak>"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the correct HTML for adding a background color?",
+        "answers": [
+          "<body bg=\"yellow\">",
+          "<background>yellow</background>",
+          "<body style=\"background-color=yellow;\">",
+          "<body style=\"background-color:yellow;\">"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the correct HTML element to define important text?",
+        "answers": [
+          "<important>",
+          "<strong>",
+          "<b>",
+          "<i>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the correct HTML element to define emphasized text?",
+        "answers": [
+          "<em>",
+          "<i>",
+          "<italic>",
+          "<b>"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the correct HTML for creating a hyperlink?",
+        "answers": [
+          "<a name=\"http://www.millionier.com\">millionier</a>",
+          "<a url=\"http://www.millionier.com\">millionier</a>",
+          "<a>http://www.millionier.com</a>",
+          "<a href=\"http://www.millionier.com\">millionier</a>"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which character is used to indicate an end tag?",
+        "answers": [
+          "/",
+          "<",
+          ".",
+          "\\"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How can you open a link in a new tab/browser window?",
+        "answers": [
+          "<a href=\"url\" new>",
+          "<a href=\"url\" target=\"new\">",
+          "<a href=\"url\" target=\"_blank\">",
+          "<a href=\"url\" target=\"new_page\">"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which of these elements are all <table> elements?",
+        "answers": [
+          "<thead><body><tr>",
+          "<table><tr><tt>",
+          "<table><tr><td>",
+          "<table><head><tfoot>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How can you make a numbered list?",
+        "answers": [
+          "<ol>",
+          "<ul>",
+          "<dl>",
+          "<list>"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How can you make a bulleted list?",
+        "answers": [
+          "<list>",
+          "<dl>",
+          "<ol>",
+          "<ul>"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the correct HTML for making a checkbox?",
+        "answers": [
+          "<input type=\"check\">",
+          "<input type=\"checkbox\">",
+          "<check>",
+          "<checkbox>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the correct HTML for making a text input field?",
+        "answers": [
+          "<input type=\"textfield\">",
+          "<textfield>",
+          "<input type=\"text\">",
+          "<textinput type=\"text\">"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the correct HTML for making a drop-down list?",
+        "answers": [
+          "<select>",
+          "<list>",
+          "<input type=\"dropdown\">",
+          "<input type=\"list\">"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the correct HTML for making a text area?",
+        "answers": [
+          "<input type=\"textarea\">",
+          "<textarea>",
+          "<input type=\"textbox\">",
+          "<text>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the correct HTML for inserting an image?",
+        "answers": [
+          "<img src=\"image.gif\" alt=\"MyImage\">",
+          "<img href=\"image.gif\" alt=\"MyImage\">",
+          "<img alt=\"MyImage\">image.gif</img>",
+          "<image src=\"image.gif\" alt=\"MyImage\">"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the correct HTML for inserting a background image?",
+        "answers": [
+          "<body style=\"background-image:url(background.gif)\">",
+          "<body bg=\"background.gif\">",
+          "<background img=\"background.gif\">",
+          "<body style=\"background-image:background.gif\""
+        ],
+        "correct": 0
+      },
+      {
+        "question": "An <iframe> is used to display a web page within a web page?",
+        "answers": [
+          "False",
+          "There is no such thing as an <iframe>",
+          "True",
+          "<iframe> is used to connect web page to the server"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which HTML element defines the title of a document?",
+        "answers": [
+          "<meta>",
+          "<title>",
+          "<head>",
+          "<htmltitle>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+        "answers": [
+          "longdesc",
+          "src",
+          "title",
+          "alt"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the correct HTML element for playing audio files?",
+        "answers": [
+          "<mp3>",
+          "<sound>",
+          "<audio>",
+          "<mp4>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The HTML global attribute, \"answerseditable\" is used to?",
+        "answers": [
+          "Specify whether the answers of an element is editable or not",
+          "Update answers from the server",
+          "Specifies a context menu for an element",
+          "Return the position of the first found occurrence of answers inside a string"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Graphics defined by SVG is in which format?",
+        "answers": [
+          "JS",
+          "XML",
+          "CSS",
+          "HTML"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The HTML <canvas> element is used to?",
+        "answers": [
+          "Create draggable elements",
+          "Manipulate data in MySQL",
+          "Draw graphics",
+          "Display database records"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+        "answers": [
+          "placeholder",
+          "validate",
+          "formvalidate",
+          "required"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which input type defines a slider control?",
+        "answers": [
+          "search",
+          "range",
+          "controls",
+          "slider"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which HTML element is used to display a scalar measurement within a range?",
+        "answers": [
+          "<range>",
+          "<gauge>",
+          "<meter>",
+          "<measure>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which HTML element is used to specify a header for a document or section?",
+        "answers": [
+          "<section>",
+          "<head>",
+          "<top>",
+          "<header>"
+        ],
+        "correct": 3
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What does CSS stand for?",
+        "answers": [
+          "Colorful Style Sheets",
+          "Cascading Style Sheets",
+          "Creative Style Sheets",
+          "Computer Style Sheets"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the correct HTML for referring to an external style sheet?",
+        "answers": [
+          "<stylesheet>style.css</stylesheet>",
+          "<link rel=\"stylesheet\" href=\"style.css\">",
+          "<style src=\"style.css\">",
+          "<script rel=\"stylesheet\" href=\"style.css\"></script>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+        "answers": [
+          "In the <body> section",
+          "At the end of the document",
+          "In the <head> section",
+          "Inside the <html> tag"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which is the correct CSS syntax?",
+        "answers": [
+          "body {color: black;}",
+          "body:color=black;",
+          "{body:color=black;}",
+          "{body;color:black;}"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How do you insert a comment in a CSS file?",
+        "answers": [
+          "' this is a comment",
+          "// this is a comment //",
+          "// this is a comment",
+          "/* this is a comment */"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "How do you add a background color for all <h1> elements?",
+        "answers": [
+          "h1.all {background-color:#FFFFFF;}",
+          "h1 {background-color:#FFFFFF;}",
+          "all.h1 {background-color:#FFFFFF;}",
+          "h1 {all.background-color:#FFFFFF;}"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which CSS property controls the text size?",
+        "answers": [
+          "font-style",
+          "text-style",
+          "font-size",
+          "text-size"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+        "answers": [
+          "<p style=\"text-size:bold;\">",
+          "p {text-size:bold;}",
+          "p {font-weight:bold;}",
+          "<p style=\"font-size:bold;\">"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How do you display hyperlinks without an underline?",
+        "answers": [
+          "a {text-decoration:none;}",
+          "a {text-decoration:no-underline;}",
+          "a {underline:none;}",
+          "a {decoration:no-underline;}"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How do you display a border like this: Top border = 10 pixels | Bottom border = 5 pixels | Left border = 20 pixels | Right border = 1pixel?",
+        "answers": [
+          "border-width:10px 1px 5px 20px;",
+          "border-width:10px 5px 20px 1px;",
+          "border-width:10px 20px 5px 1px;",
+          "border-width:5px 20px 10px 1px;"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "How do you select an element with id \"demo\"?",
+        "answers": [
+          ".demo",
+          "demo",
+          "#demo",
+          "*demo"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How do you select elements with class name \"test\"?",
+        "answers": [
+          "#test",
+          ".test",
+          "*test",
+          "test"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the default value of the position property?",
+        "answers": [
+          "static",
+          "absolute",
+          "fixed",
+          "relative"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "In the following code snippet, what value is given for the left margin: margin: 5px 10px 3px 8px;",
+        "answers": [
+          "3px",
+          "10px",
+          "8px",
+          "5px"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following would be used to create an ID called header which has a width of 750px, a height of 30px and the color of the text is black?",
+        "answers": [
+          "#header { height: 30px; width: 750px; color: black; }",
+          ".header { height: 30px; width: 750px; color: black; }",
+          "#header { height: 30px; width: 750px; text: black; }",
+          ".header { height: 30px; width: 750px; color: black; }"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How can you created rounded corners using CSS3?",
+        "answers": [
+          "border[round]: 30px;",
+          "corner-effect: round;",
+          "border-radius: 30px;",
+          "alpha-effect: round-corner;"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How do you add shadow to elements in CSS3?",
+        "answers": [
+          "box-shadow: 10px 10px 5px grey;",
+          "shadow-right: 10px shadow-bottom: 10px;",
+          "shadow-color: grey;",
+          "alpha-effect[shadow]: 10px 10px 5px grey;"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How to you modify a border image using CSS3?",
+        "answers": [
+          "border: url(image.png);",
+          "border-variable: image url(image.png);",
+          "border-image: url(border.png) 30 30 round;",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How to resize a background image using CSS3?",
+        "answers": [
+          "background-size: 80px 60px",
+          "bg-dimensions: 80px 60px;",
+          "background-proportion: 80px 60px;",
+          "alpha-effect: bg-resize 80px 60px;"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How to add text shadow using CSS3?",
+        "answers": [
+          "font: shadowed 5px 5px 5px grey;",
+          "font-shadow: 5px 5px 5px grey;",
+          "text-shadow: 5px 5px 5px grey;",
+          "shadow: text 5px 5px 5px grey;"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which prefix do you need to get CSS3 properties to work on older Mozilla Firefox browsers?",
+        "answers": [
+          "-webkit-",
+          "-moz-",
+          "-o-",
+          "-gecko-"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What does the a stand for in RGBa?",
+        "answers": [
+          "Alpha",
+          "Aqua",
+          "Apple",
+          "About"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What are the first three values of text-shadow in order?",
+        "answers": [
+          "vertical, blur, horizontal",
+          "blur, vertical, horizontal",
+          "vertical, horizontal, blur",
+          "horizontal, vertical, blur"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "How to force a word wrap using CSS3?",
+        "answers": [
+          "word-wrap: break-word;",
+          "text-wrap: break-word;",
+          "text-wrap: force;",
+          "text-width: set;"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What property specifies the stack order of an element",
+        "answers": [
+          "d-index",
+          "s-index",
+          "x-index",
+          "z-index"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is css Float?",
+        "answers": [
+          "Allows other elements to wrap around an element",
+          "Element can be pushed to the left or right",
+          "Both 1st and 2nd answers are correct",
+          "element can be pushed to any direction"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "If you put a value of 0 for a Border-Radius what will happen?",
+        "answers": [
+          "The Corner will curve horizontal",
+          "The Corner will be square",
+          "The Corner will curve vertical",
+          "The world will end"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is a server-side JavaScript object?",
+        "answers": [
+          "Function",
+          "File",
+          "FileUpload",
+          "Date"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "To insert a JavaScript into an HTML page, which tag is used?",
+        "answers": [
+          "<script=\"java\">",
+          "<javascript>",
+          "<script>",
+          "<js>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of the below is used in JavaScript to insert special characters?",
+        "answers": [
+          "&",
+          "\\",
+          "-",
+          "%"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "How does JavaScript store dates in objects of Date type?",
+        "answers": [
+          "The number of days since January 1st, 1900",
+          "The number of seconds since January 1st, 1970",
+          "The number of milliseconds since January 1st, 1970",
+          "The number of picoseconds since January 1st, 1970"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which is the correct way to write a JavaScript array?",
+        "answers": [
+          "let txt = new Array:1=(\"arr\")2=(\"kim\")3=(\"jim\")",
+          "let txt = new Array(1:\"arr\",2:\"kim\",3:\"jim\")",
+          "let txt = new Array=[\"arr\",\"kim\",\"jim\"]",
+          "let txt = [\"arr\",\"kim\",\"jim\"]"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following is correct to write “Hello World” on the web page?",
+        "answers": [
+          "System.out.println(“Hello World”)",
+          "print(“Hello World”)",
+          "document.write(“Hello World”)",
+          "response.write(“Hello World”)"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following is not a valid JavaScript variable name?",
+        "answers": [
+          "2java",
+          "_java_and_ java _names",
+          "javaandjava",
+          "None of the above"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which of the ways below is incorrect of instantiating a date?",
+        "answers": [
+          "new Date(dateString)",
+          "new Date()",
+          "new Date(seconds)",
+          "new Date(year, month, day, hours, minutes, seconds, milliseconds)"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is negative infinity in Java script?",
+        "answers": [
+          "Number in JavaScript, derived by dividing number by a negative number",
+          "Number in JavaScript, derived by dividing number by zero",
+          "Number in JavaScript, derived by dividing negative number by zero",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the alternate name for JavaScript?",
+        "answers": [
+          "LimeScript",
+          "ECMScript",
+          "ECMJScript",
+          "ECMAScript"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following is a client-side JavaScript object?",
+        "answers": [
+          "FileUpload",
+          "Function",
+          "File",
+          "Date"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What java wrapper type is created when a JavaScript object is sent to Java?",
+        "answers": [
+          "ScriptObject",
+          "JavaObject",
+          "Jobject",
+          "JSObject"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following method is used to evaluate a string of JavaScript code in the context of the specified object?",
+        "answers": [
+          "eval",
+          "parseDoule",
+          "parseObject",
+          "efloat"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "From which version of Internet Explorer is Flexbox supported?",
+        "answers": [
+          "IE9",
+          "IE10",
+          "IE11",
+          "Edge"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which Flexbox property really exists?",
+        "answers": [
+          "flex-wrap",
+          "re-flex",
+          "circum-flex",
+          "corn-flex"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the default orientation within a flex container?",
+        "answers": [
+          "diagonal",
+          "perpendicular",
+          "vertical",
+          "horizontal"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "In the shortened property flex: 1 0 auto; which property refers to the 2nd value (here 0)?",
+        "answers": [
+          "flex-grow",
+          "flex-shrink",
+          "flex-basis",
+          "flex-flow"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which is the default flex-flow?",
+        "answers": [
+          "initial",
+          "row nowrap",
+          "row wrap",
+          "column wrap"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which Flexbox statement does not exist?",
+        "answers": [
+          "align-items: space-between;",
+          "justify-answers: space-between;",
+          "align-answers: space-between;",
+          "align-self: auto;"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Find the intruder",
+        "answers": [
+          "justify-answers: flex-start;",
+          "align-items: flex-start;",
+          "align-answers: flex-start;",
+          "align-self: flex-start;"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "If these two statements are applied on a flex item, what will be its width? Width: 500px; flex-basis: 250px;",
+        "answers": [
+          "250px",
+          "500px",
+          "750px",
+          "1250px"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "If these three statements are applied on a flex item, what will be its width? Width: 500px; flex-basis: 250px; min-width: 750px;",
+        "answers": [
+          "250px",
+          "500px",
+          "750px",
+          "1250px"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "If all these statements are applied on a flex item, what will be its width? Width: 500px; flex-basis: 1250px; min-width: 750px; flex-shrink: 0;",
+        "answers": [
+          "250px",
+          "500px",
+          "750px",
+          "1250px"
+        ],
+        "correct": 3
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which class provides a responsive fixed width container? Bootstrap",
+        "answers": [
+          ".container-fixed",
+          ".container-fluid",
+          ".container-fd",
+          ".container"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which class provides a full width container, spanning the entire width of the viewport? Bootstrap",
+        "answers": [
+          ".container-fixed",
+          ".container-fluid",
+          ".container-fd",
+          ".container"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "The Bootstrap grid system is based on how many columns?",
+        "answers": [
+          "12",
+          "3",
+          "9",
+          "6"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which class adds zebra-stripes to a table? Bootstrap",
+        "answers": [
+          ".table-zebra",
+          ".table-striped",
+          ".table-bordered",
+          ".even and .odd"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which class shapes an image to a circle? Bootstrap",
+        "answers": [
+          ".img-rounded",
+          ".img-circle",
+          ".img-thumbnail",
+          ".img-round"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which class is used to create a big box for calling extra attention? Bootstrap",
+        "answers": [
+          ".container",
+          ".bigbox",
+          ".container-box",
+          ".jumbotron"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which button class is used to create a large button? Bootstrap",
+        "answers": [
+          ".btn-large",
+          ".btn-xl",
+          ".btn-lg",
+          ".btn-l"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which class is used to create a button group? Bootstrap",
+        "answers": [
+          ".btn-group",
+          ".group-btn",
+          ".group-button",
+          ".button-group"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "How can you insert a search icon? Bootstrap",
+        "answers": [
+          "<span class=\"glyph glyph-search\"></span>",
+          "<span class=\"glyphicon-search\"></span>",
+          "<span class=\"glyphicon glyphicon-search\"></span>",
+          "<span class=\"glyphicon search\"></span>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which class is used to create a badge? Bootstrap",
+        "answers": [
+          ".badge",
+          ".tag",
+          ".label",
+          ".flag"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which class is used to create a basic pagination? Bootstrap",
+        "answers": [
+          ".page",
+          ".pagination",
+          ".pages",
+          ".navigation"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which class is used to create a basic list group? Bootstrap",
+        "answers": [
+          ".grouped-list",
+          ".list-group",
+          ".group-list",
+          ".list-grouped"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which class adds a heading to a panel? Bootstrap",
+        "answers": [
+          ".panel-footer",
+          ".panel-header",
+          ".panel-heading",
+          ".panel-head"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which class indicates a dropdown menu? Bootstrap",
+        "answers": [
+          ".dropdown",
+          ".dropdown-list",
+          ".select-dropdown",
+          ".select"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "A standard navigation tab is created with? Bootstrap",
+        "answers": [
+          "<ul class=\"navigation-tabs\">",
+          "<ul class=\"nav nav-tabs\">",
+          "<ul class=\"nav tabs\">",
+          "<ul class=\"nav nav-navbar\">"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "A standard navigation bar is created with? Bootstrap",
+        "answers": [
+          "<nav class=\"navbar navbar-default\">",
+          "<nav class=\"navigationbar navbar-default\">",
+          "<nav class=\"nav navbar\">",
+          "<nav class=\"navbar default-navbar\">"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which plugin is used to cycle through elements, like a slideshow? Bootstrap",
+        "answers": [
+          "Orbit",
+          "Scrollspy",
+          "Slideshow",
+          "Carousel"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which plugin is used to create a modal window? Bootstrap",
+        "answers": [
+          "Popup",
+          "Dialog Box",
+          "Window",
+          "Modal"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which contextual class indicates a succesful or positive action? Bootstrap",
+        "answers": [
+          ".text-success",
+          ".text-warning",
+          ".text-info",
+          ".text-primary"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which contextual class indicates a dangerous or potentially negative action? Bootstrap",
+        "answers": [
+          ".text-warning",
+          ".text-primary",
+          ".text-danger",
+          ".text-info"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which is the URL-encoding for the ASCII character (!)?",
+        "answers": [
+          "%20",
+          "%21",
+          "%22",
+          "%23"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is the correct way of returning the length of this string?",
+        "answers": [
+          "'string',length",
+          "string,length",
+          "string.length",
+          "'string'.length"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the substring keyword used for?",
+        "answers": [
+          "Creating a string within a string",
+          "Returning a partial part of a string",
+          "Reordering characters in a string",
+          "Substituting characters within a string"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following best describes what a function in JavaScript is used for?",
+        "answers": [
+          "A function creates new variables",
+          "A function is used for math formulas",
+          "A reusable piece of code that can be called on throughout an application",
+          "A function allows for the use of mathematical operators"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "The input in a function is called?",
+        "answers": [
+          "function variable",
+          "parameter",
+          "return",
+          "global variable"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What does the return keyword do?",
+        "answers": [
+          "It allows the user to return to previous code",
+          "It allows for the output of a function to be used elsewhere",
+          "It logs the output to the console",
+          "It ends the statement in a function"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following best describes an array?",
+        "answers": [
+          "A variable that can create functions",
+          "A variable that can store a list of different data seperately",
+          "A data type that can store data",
+          "A data type that can create functions"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "How are while loops different to for loops?",
+        "answers": [
+          "The start of the loop is not predefined in while loops",
+          "While loops cannot use comparison operators",
+          "The end of the loop is not predefined",
+          "The control of the loop is not predefined in for loops"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the use of the isNaN function?",
+        "answers": [
+          "It converts a string of numbers to a number",
+          "It checks if something is not a number and returns a boolean",
+          "It checks if something is a number and returns a boolean",
+          "It converts a number to a string"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is not a logical operator in JavaScript?",
+        "answers": [
+          "||",
+          "&&",
+          "$$",
+          "!"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which of the following is the symbol for implementing the AND operator?",
+        "answers": [
+          "||",
+          "&&",
+          "$$",
+          "!"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is the symbol for implementing the OR operator?",
+        "answers": [
+          "||",
+          "&&",
+          "$$",
+          "!"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which of the following is true about cookie handling in JavaScript?",
+        "answers": [
+          "JavaScript can manipulate cookies using the cookie property of the Document object",
+          "JavaScript can read, create, modify, and delete the cookie or cookies that apply to the current web page",
+          "Both of the above",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which built-in method reverses the order of the elements of an array?",
+        "answers": [
+          "changeOrder(order)",
+          "reverse()",
+          "sort(order)",
+          "None of the above"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following function of String object combines the text of two strings and returns a new string?",
+        "answers": [
+          "add()",
+          "merge()",
+          "concat()",
+          "append()"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following function of String object executes the search for a match between a regular expression and a specified string?",
+        "answers": [
+          "concat()",
+          "match()",
+          "replace()",
+          "search()"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following function of String object creates a string to be displayed as bold as if it were in a <b> tag?",
+        "answers": [
+          "anchor()",
+          "big()",
+          "blink()",
+          "bold()"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following function of Array object returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found?",
+        "answers": [
+          "indexOf()",
+          "join()",
+          "lastIndexOf()",
+          "map()"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following function of Array object adds and/or removes elements from an array?",
+        "answers": [
+          "splice()",
+          "toSource()",
+          "sort()",
+          "unshift()"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Which of the following is not a method in the “JSON” object according to the ECMAScript specification?",
+        "answers": [
+          "JSON.stringify",
+          "JSON.fromString",
+          "JSON.parse",
+          "All are correct"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "The function call Math.ceil(3.5) returns?",
+        "answers": [
+          "MathError",
+          "4",
+          "0",
+          "3"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which event fires whenever a control loses focus?",
+        "answers": [
+          "onclick",
+          "onmove",
+          "onblur",
+          "onchange"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which has the correct syntax of a ternary operation?",
+        "answers": [
+          "var x = ( y === true ) { “true” : “false” };",
+          "var x = y === true : “true” ? “false”;",
+          "var x = ( y === true ) : “true” ? “false”;",
+          "var x = y === true ? “true” : “false”;"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the result of the following statement: 0 == “”;",
+        "answers": [
+          "Error, invalid comparison",
+          "false",
+          "null",
+          "true"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Math.random() returns?",
+        "answers": [
+          "A random number between 0 and 1",
+          "A random number that can be any value",
+          "A random number between 0 and 100",
+          "A random number between 0 and 1000"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "You use the Math.pow() method to?",
+        "answers": [
+          "Return any number",
+          "Return a number raised to the power of a second number",
+          "Return a random value between 0 and 1",
+          "Return a variable value"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following Array prototype methods actually modifies the array it’s been called on?",
+        "answers": [
+          "concat()",
+          "slice()",
+          "splice()",
+          "All of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Math.PI returns the mathematical constant of PI. What standard JavaScript method would truncate Math.Pi to 3.14?",
+        "answers": [
+          "Math.Round(Math.PI)",
+          "Math.PI.toPrecision(2)",
+          "Math.PI.toString(\"D2\")",
+          "Math.PI.toFixed(2)"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "You use the Math.tan() method to?",
+        "answers": [
+          "Return the tangent of an angle in degrees",
+          "Return the tangent of an angle in gradients",
+          "Return the tangent of an angle in radians",
+          "Does not exist in JavaScript"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Which’s the correct syntax for creating a Date object for January 10, 1998?",
+        "answers": [
+          "new Date(1998, 0, 10);",
+          "new Date(1, 10, 1998);",
+          "new Date(0, 10, 1998);",
+          "new Date(1998, 1, 10);"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What is printed in the console?",
+        "codeImage": "questionsImages/14lvl1q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "ReferenceError",
+          "Undefined"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What does the above alert?",
+        "codeImage": "questionsImages/14lvl2q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "Function",
+          "Number",
+          "Object",
+          "Undefined"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl3q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "Undefined"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl4q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "NaN"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is alerted?",
+        "codeImage": "questionsImages/14lvl5q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "Number",
+          "Undefined",
+          "Function",
+          "String"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl6q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "0",
+          "2",
+          "11",
+          "\"11\""
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the order of values alerted?",
+        "codeImage": "questionsImages/14lvl7q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "1, 3",
+          "1, 2",
+          "3, 2",
+          "3, 1"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl8q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "Undefined"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl9q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "\"f, o, o\"",
+          "[\"f\", \"o\", \"o\"]",
+          "TypeError",
+          "[][][\"f\", \"o\", \"o\"]"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/14lvl10q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "\",,,,\"",
+          "[]",
+          "\"[]\"",
+          "[\",,,,\"]"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What is printed in the console?",
+        "codeImage": "questionsImages/15lvl1q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "[\"foo\", \"bar\", \"baz\"]",
+          "[\"foo\", \"bar\", \"baz\", \"bin\"]",
+          "[\"bin\", \"foo\", \"bar\", \"baz\"]",
+          "[\"bin\"]"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/15lvl2q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "Undefined"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What is printed on the console?",
+        "codeImage": "questionsImages/15lvl3q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "ReferrenceError",
+          "Undefined",
+          "0",
+          "1"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/15lvl4q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "Undefined"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/15lvl5q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "5",
+          "4",
+          "NaN",
+          "Undefined"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "What is the result of console.log?",
+        "codeImage": "questionsImages/15lvl6q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "Undefined",
+          "ReferenceError"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What value is alerted?",
+        "codeImage": "questionsImages/15lvl7q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "Undefined"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/15lvl8q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "NaN",
+          "Undefined"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What value is alerted?",
+        "codeImage": "questionsImages/15lvl9q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "2",
+          "1",
+          "ReferenceError",
+          "Undefined"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "What is the result?",
+        "codeImage": "questionsImages/15lvl10q.png",
+        "alt": "millionQuestionImage",
+        "answers": [
+          "True",
+          "False",
+          "TypeError",
+          "Undefined"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+]

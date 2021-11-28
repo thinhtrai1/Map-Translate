@@ -8,7 +8,6 @@ import android.os.Bundle
 import android.speech.RecognizerIntent
 import android.speech.SpeechRecognizer
 import android.speech.tts.TextToSpeech
-import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.core.app.ActivityCompat
@@ -24,22 +23,12 @@ class TranslateActivity : AppCompatActivity() {
     private lateinit var service: Translate
     private lateinit var speechRecognizer: SpeechRecognizer
     private lateinit var speechIntent: Intent
-    private var textToSpeech: TextToSpeech? = null
+    private lateinit var textToSpeech: TextToSpeech
     private var locale = Pair(LocaleVN, Locale.ENGLISH)
     private val viewModel: TranslateViewModel by viewModels()
     private val adapter = TranslateRcvAdapter { message, locale ->
-        textToSpeech = TextToSpeech(this) {
-            when (it) {
-                TextToSpeech.SUCCESS -> {
-                    textToSpeech!!.language = locale
-                    textToSpeech!!.speak(
-                        message,
-                        TextToSpeech.QUEUE_FLUSH, null, null
-                    )
-                }
-                else -> toast("Error while initializing TextToSpeech engine!")
-            }
-        }
+        textToSpeech.language = locale
+        textToSpeech.speak(message, TextToSpeech.QUEUE_FLUSH, null, null)
     }
     private val requestPermission = registerForActivityResult(ActivityResultContracts.RequestPermission()) {
         if (it) {
@@ -92,7 +81,7 @@ class TranslateActivity : AppCompatActivity() {
             override fun onError(p0: Int) {
                 binding.btnTranslate.isEnabled = true
                 binding.btnTranslate.text = getString(R.string.translate)
-                Toast.makeText(this@TranslateActivity, p0.toStringError(), Toast.LENGTH_SHORT).show()
+                toast(p0.toStringError())
             }
 
             override fun onResults(p0: Bundle?) {
@@ -108,6 +97,11 @@ class TranslateActivity : AppCompatActivity() {
             .putExtra(RecognizerIntent.EXTRA_LANGUAGE, locale.first.language)
             .putExtra(RecognizerIntent.EXTRA_CALLING_PACKAGE, packageName)
             .putExtra(RecognizerIntent.EXTRA_MAX_RESULTS, 1)
+        textToSpeech = TextToSpeech(this) {
+            if (it != TextToSpeech.SUCCESS) {
+                toast("Error while initializing TextToSpeech engine!")
+            }
+        }
     }
 
     private fun startTranslate(input: String) {
@@ -116,7 +110,7 @@ class TranslateActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        textToSpeech?.stop()
-        textToSpeech?.shutdown()
+        textToSpeech.stop()
+        textToSpeech.shutdown()
     }
 }

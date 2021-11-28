@@ -3,19 +3,31 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center_vertical"
+    android:orientation="vertical"
     android:paddingHorizontal="4dp">
 
-    <Button
-        android:id="@+id/btnNavigation"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="@string/map_navigation" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnNavigation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/map_navigation" />
+
+        <Button
+            android:id="@+id/btnTranslate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/translate" />
+    </LinearLayout>
 
     <Button
-        android:id="@+id/btnTranslate"
-        android:layout_width="0dp"
+        android:id="@+id/btnMillionaire"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="@string/translate" />
+        android:text="@string/millionaire" />
 </LinearLayout>
